@@ -107,6 +107,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  minimalist_state:
+    dependency: "direct main"
+    description:
+      name: minimalist_state
+      sha256: "4457ba5ad96462ea4ed8a629f2f5dab6f22f1656b3cef55d55cee9bf9809be04"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   path:
     dependency: transitive
     description:

@@ -1,7 +1,7 @@
 name: minimalist_state
-description: A sample command-line application.
+description: A minimal state management solution.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Yoeri-z/minimalist_state
 
 environment:
   sdk: ^3.1.2
